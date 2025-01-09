@@ -40,7 +40,7 @@ applications globally.
 
 ## Objectives
 
-This project aims to make you discover cyber security in the field of the WWW.
+This project aims to make you discover cyber security in the field of the World Wide Web
 
 - Learn the fundamentals of web security and vulnerability identification.
 - Discover and exploit **14 known vulnerabilities** inspired by the OWASP Top Ten.
