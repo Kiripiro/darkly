@@ -68,5 +68,3 @@ as you go, including:
 - How the vulnerability can be exploited.
 - The potential risks associated with the vulnerability.
 - Steps to mitigate or fix the vulnerability.
-
-"""
